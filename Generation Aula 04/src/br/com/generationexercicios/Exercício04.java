@@ -9,6 +9,8 @@ public class Exercício04 {
 	
 	public static void main(String[] args) {
 		
+		//Random random = new Random() --> para numeros aleatorios
+		
 		Scanner entrada = new Scanner(System.in);
 
 		double[][] matriz = new double[3][3];
